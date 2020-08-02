@@ -24,8 +24,12 @@
    height: 100vh;
 }
 .winter {
-   background-color: aliceblue;
+   background: #e6dada;
+   background: -webkit-linear-gradient(to right, #274046, #e6dada);
+   background: linear-gradient(to right, #274046, #e6dada);
 }
 .summer {
-   background-color: rgb(255, 115, 0);
+   background: #22c1c3;
+   background: -webkit-linear-gradient(to right, #fdbb2d, #22c1c3);
+   background: linear-gradient(to right, #fdbb2d, #22c1c3);
 }
